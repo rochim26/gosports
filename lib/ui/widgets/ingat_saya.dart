@@ -60,7 +60,7 @@ class _IngatSaya extends State<IngatSaya> {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(right: 100),
+      padding: const EdgeInsets.only(right: 90),
       child: Theme(
         data: ThemeData(
           unselectedWidgetColor: const Color(0xFF95A1AC),
